@@ -12,3 +12,10 @@ The Hello Component is defined. The model properties that have been passed are u
 
 ### Within the bootstrap.js
 Bootstrapping/Rendering the top-level React component into the DOM.
+
+## Instructions
+1. Install NodeJS
+2. Run `npm start` to get the application running on the web server
+    * Packages needed for this application will be installed (i.e. React & Express)
+    * The Node/Express Web Server will start
+3. Go to `http://localhost:8080/src/` in your web browser
