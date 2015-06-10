@@ -1,6 +1,6 @@
 {
   "name": "hello-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React with no JSX Hello World",
   "scripts": {
     "start": "node server.js",
