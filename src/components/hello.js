@@ -9,7 +9,7 @@
     DI.App.Hello = React.createClass({
         //Used for debugging purposes
         // If using JSX this will be set automatically
-        displayName: 'Hello',
+        displayName: 'DI.App.Hello',
         /**
          * React life-cycle method used to return this component.
          *  Utilizes the properties and state placed into it.
