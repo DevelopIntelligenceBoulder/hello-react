@@ -1,5 +1,5 @@
 # hello-react
-A simple example of Hello World written with React.
+A simple example of Hello World written with [React](https://facebook.github.io/react/index.html).
 
 ##What is this?
 This example shows how to take a model property and populate it within a React component. 
@@ -14,7 +14,7 @@ The Hello Component is defined. The model properties that have been passed are u
 Bootstrapping/Rendering the top-level React component into the DOM.
 
 ## Instructions
-1. Install [NodeJS](nodejs.org)
+1. Install [NodeJS](https://nodejs.org/)
 2. Run `npm start` to get the application running on the web server
     * Packages needed for this application will be installed (i.e. React & Express)
     * The Node/Express Web Server will start
