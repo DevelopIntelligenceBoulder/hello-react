@@ -1,0 +1,22 @@
+{
+  "name": "hello-react",
+  "version": "0.0.1",
+  "description": "React with no JSX Hello World",
+  "scripts": {
+    "start": "node server.js",
+    "prestart": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevelopIntelligenceBoulder/hello-react.git"
+  },
+  "author": "Kamren Zorgdrager <kamrenz@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DevelopIntelligenceBoulder/hello-react",
+  "devDependencies": {
+    "express": "^4.12.4"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
