@@ -19,3 +19,4 @@ Bootstrapping/Rendering the top-level React component into the DOM.
     * Packages needed for this application will be installed (i.e. React & Express)
     * The Node/Express Web Server will start
 3. Go to `http://localhost:8080/src/` in your web browser
+4. You can demo this at this [Plunker](http://plnkr.co/edit/C2qQl4?p=preview)
