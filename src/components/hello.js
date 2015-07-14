@@ -11,8 +11,9 @@
         // If using JSX this will be set automatically
         displayName: 'DI.App.Hello',
         /**
-         * React life-cycle method used to return this component.
+         * React internal method used to render this component.
          *  Utilizes the properties and state placed into it.
+         *  Only method needed to create a React component.
          */
         render: function() {
             //Creating the React component as an <H1> element
